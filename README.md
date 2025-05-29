@@ -37,7 +37,7 @@ An internal scoring system used to determine which wallets qualify for vault emi
 
 ---
 
-## Dev Notes
+## Dev-Notes
 
 - TypeScript project
 - Solana-compatible wallet logic coming
