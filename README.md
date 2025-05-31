@@ -1,5 +1,7 @@
 # Anemos
 
+![Anemos](docs/AnemosBanner.png)
+
 Anemos is a holding protocol designed for volatile token ecosystems. It rewards consistent onchain behavior-not snapshots, staking, or farming. Projects lock dev supply into our **Aether Vaults**, and supply is streamed to top holders over time based on signal.
 
 ---
