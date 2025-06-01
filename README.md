@@ -50,3 +50,7 @@ An internal scoring system used to determine which wallets qualify for vault emi
 ## License
 
 MIT License
+
+---
+
+Follow our [Twitter ↗](https://x.com/AnemosLabs)
